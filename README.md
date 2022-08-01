@@ -24,7 +24,7 @@ A simple web application that simulates buying tickets at cinemas.
 ### Project architecture
 - DAO - Data access layer
 - Service - Application layer
-- Model - Presentation layer
+- Controllers - Presentation layer
 
 ### Database structure
 
